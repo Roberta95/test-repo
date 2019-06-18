@@ -1,4 +1,2 @@
 # test-repo
 demo
-lll
-su git
